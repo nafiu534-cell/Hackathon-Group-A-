@@ -1,6 +1,7 @@
 # Hackathon-Group-A-
 This project explores relationships between various marketing channels and sales performance using Python-based data analysis techniques. The analysis focuses on understanding how different marketing mediums (TV advertising, Radio, Social Media, and Influencer marketing) correlate with sales outcomes through visualization and statistical analysis.
 Dataset
+
 **The dataset (marketing_sales_data.csv) contains 572 entries with 5 columns:**
 
 TV (categorical): Advertising spend level (Low, Medium, High)
@@ -10,6 +11,7 @@ Influencer (categorical): Type of influencer used (Micro, Mega, Nano, Macro)
 Sales (numerical): Resulting sales figures
 
 **Methodology:**
+
 **The analysis utilized the following Python libraries:**
 
 pandas for data manipulation and analysis
@@ -20,8 +22,9 @@ scikit-learn for preprocessing categorical data
 
 The categorical variable 'Influencer' was encoded using a Label Encoder (Micro → 2, Mega → 1, Nano → 3, Macro → 0) to facilitate numerical analysis.
 
-**Key Findings
-Data Distribution:**
+****Key Findings**
+
+**Data Distribution:****
 
 Sales data shows a relatively normal distribution with some positive skewness
 The Radio advertising investment displays a moderate positive skew
