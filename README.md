@@ -19,6 +19,7 @@ seaborn for enhanced visualizations
 scikit-learn for preprocessing categorical data
 
 The categorical variable 'Influencer' was encoded using a Label Encoder (Micro → 2, Mega → 1, Nano → 3, Macro → 0) to facilitate numerical analysis.
+
 **Key Findings
 Data Distribution:**
 
