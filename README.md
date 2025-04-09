@@ -22,9 +22,9 @@ scikit-learn for preprocessing categorical data
 
 The categorical variable 'Influencer' was encoded using a Label Encoder (Micro → 2, Mega → 1, Nano → 3, Macro → 0) to facilitate numerical analysis.
 
-****Key Findings**
+**Key Findings**
 
-**Data Distribution:****
+**Data Distribution:**
 
 Sales data shows a relatively normal distribution with some positive skewness
 The Radio advertising investment displays a moderate positive skew
