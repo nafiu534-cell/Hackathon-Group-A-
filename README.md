@@ -47,3 +47,11 @@ Social media investment average: 3.33
 
 Conclusion
 This exploratory data analysis demonstrates the relationships between different marketing channels and sales performance. The visualizations illustrate that while all marketing channels contribute to sales, certain channels (particularly Radio) show stronger correlations with sales outcomes. The analysis provides actionable insights for optimizing marketing budget allocation across different channels based on their relative effectiveness.
+HELLO PLEASE THIS IS YOUR CONTRIBUTION:
+
+Future Work
+
+Develop predictive models to forecast sales based on marketing channel investments
+Conduct feature importance analysis to quantify the impact of each marketing channel
+Explore interaction effects between different marketing channels
+Perform segmentation analysis based on the effectiveness of different influencer types
