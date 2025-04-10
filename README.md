@@ -51,7 +51,13 @@ HELLO PLEASE THIS IS YOUR CONTRIBUTION:
 
 Future Work
 
-Develop predictive models to forecast sales based on marketing channel investments
-Conduct feature importance analysis to quantify the impact of each marketing channel
-Explore interaction effects between different marketing channels
-Perform segmentation analysis based on the effectiveness of different influencer types
+* Develop predictive models to forecast sales based on marketing channel investments
+  
+* Conduct feature importance analysis to quantify the impact of each marketing channel
+  
+* Explore interaction effects between different marketing channels
+  
+* Perform segmentation analysis based on the effectiveness of different influencer types
+
+
+
