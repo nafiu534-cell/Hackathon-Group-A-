@@ -1,4 +1,4 @@
-# Hackathon-Group-A-
+# Hackathon-Group-A
 This project explores relationships between various marketing channels and sales performance using Python-based data analysis techniques. The analysis focuses on understanding how different marketing mediums (TV advertising, Radio, Social Media, and Influencer marketing) correlate with sales outcomes through visualization and statistical analysis. This analysis highlights the importance of marketing channels for boosting sales and enables informed decision-making to identify the most effective medium for revenue growth. Given the evolving landscape of marketing platforms, businesses should carefully evaluate each option to determine which ones will: 
 * Drive immediate sales increases
 * Provide reliable sales forecasting data
